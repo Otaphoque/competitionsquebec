@@ -1,0 +1,6 @@
+Flask==2.2.2
+Flask_Bcrypt==1.0.1
+Markdown==3.4.1
+markdown2==2.4.10
+flask-ext==0.1
+Werkzeug==2.2.2

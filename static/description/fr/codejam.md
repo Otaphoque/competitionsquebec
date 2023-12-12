@@ -1,0 +1,1 @@
+Marquez vos calendriers ! La 13e édition du CodeJam aura lieu du 17 au 19 novembre. Restez à l'écoute de nos comptes de médias sociaux pour des mises à jour sur l'ouverture des candidatures ! Nous avons hâte de vous accueillir tous 🤩👩‍💻

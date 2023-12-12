@@ -1,0 +1,2 @@
+Join @Hack, a student cybersecurity hackathon in downtown Montreal, featuring web, crypto, pwning, AI, and many more challenges.
+Showcase your hacking skills, win prizes, and collaborate on a shared challenge! Don't miss out!

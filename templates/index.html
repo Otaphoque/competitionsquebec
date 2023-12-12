@@ -1,0 +1,65 @@
+{% extends 'nav.html' %}
+
+{% block content %}
+
+<div class="w-full flex justify-center items-center bg-light-blue">
+    <div class="p-2 h-full w-11/12 flex flex-col justify-center items-center">
+
+        {% for i in range(0, 12) %}
+
+        {% if months[i] %}
+
+        <div class="m-10 w-full items-center justify-center">
+            <h1 class="text-5xl font-semibold">{{ months_name[i] }} {{ months[i][0].startDate_string[0:4] }}</h1>
+
+            <div class="justify-center items-center flex w-full h-full">
+                <div class="mx-10 mt-10 mb-5 h-full w-full flex flex-row flex-wrap">
+
+                    {% for event in months[i] %}
+
+                    <a href="{{ url_for('info', id=event.id) }}"
+                        class="w-80 aspect-square m-10 p-5 bg-my-white drop-shadow-lg rounded">
+                        <div class="w-full h-full text-dark-blue">
+
+                            <p class="justify-center items-center flex text-2xl m-3">{{ event.name }}</p>
+                            <p class="justify-center items-center flex">📍 {{ event.location[:20] + ("..." if
+                                event.location|length > 20 else "") }}</p>
+                            <p class="justify-center items-center flex">🗓️ {{ event.startDate.strftime('%B %d, %Y') }}
+                            </p>
+                            <p class="justify-center items-center flex">🏆 {{ event.type }}</p>
+                            <p class="justify-center items-center flex">🌎 {{ event.language }}</p>
+
+                                <div class="mt-14 flex">
+                                    {% if language %}
+                                        {% if event.description_fr | length > 140 %}
+                                            <p>{{ event.smallDescription_fr[:130] }}...<span class="text-very-dark-blue"> [afficher plus]</span></p>
+                                        {% else %}
+                                            <p>{{ event.smallDescription_fr }}</p>
+                                        {% endif %}
+                                    {% else %}
+                                        {% if event.description_en | length > 150 %}
+                                            <p>{{ event.smallDescription_en[:140] }}...<span class="text-very-dark-blue"> [show more]</span></p>
+                                        {% else %}
+                                            <p>{{ event.smallDescription_en }}</p>
+                                        {% endif %}
+                                    {% endif %}
+                                </div>
+
+                        </div>
+                    </a>
+
+                    {% endfor %}
+
+                </div>
+            </div>
+
+        </div>
+
+        {% endif %}
+
+
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock%}

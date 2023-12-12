@@ -1,0 +1,1 @@
+Mark your calendars! The 13th edition of CodeJam is set to take place from November 17th to 19th. Stay tuned to our social media accounts for updates on when applications will open! We’re looking forward to welcoming you all 🤩👩‍💻

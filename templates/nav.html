@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Competitions Quebec</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dist/output.css') }}">
+</head>
+
+<body style="background-image: url('../static/images/unnamed.png')"
+    class="bg-light-blue text-white flex flex-col min-h-screen">
+    <div class="bg-transparent sticky">
+        <nav class="bg-red">
+            <div class="flex p-4 justify-between items-center bg-red"
+                style="background-image: url('../static/images/unnamed.png')">
+
+                <a href="{{ url_for('index') }}" class="justify-center flex">
+                    <img width="44" height="44" src="{{url_for('static', filename='images/logo.png')}}"
+                        class="h-6 mr-3 sm:h-9" alt="McGill Logo">
+                    <h1 class="text-2xl font-semibold text-white">Quebec Competitions</h1>
+                </a>
+
+                <div class="flex flex-row">
+
+                    <form method="post" action="/change_language">
+                        <button class="bg-dark-blue text-white w-10 p-2 m-1 justify-center flex rounded" type="submit">{{ translations.language }}</button>
+                    </form>
+
+                    <a href="{{ url_for('about') }}" class="w-28 justify-center bg-dark-blue m-1 flex text-white p-2 rounded">{{ translations.ressources }}</a>
+                    <a href="{{ url_for('submit') }}" class="w-32 justify-center bg-dark-blue m-1 flex text-white p-2 rounded">{{ translations.soumettre }}</a>
+                </div>
+            </div>
+        </nav>
+        <div class="w-full h-4 bg-contain bg-transparent"
+            style="background-image: url('../static/images/top-wave.png');"></div>
+    </div>
+    {% block content %}
+    {% endblock %}
+
+
+</body>
+
+{% extends 'footer.html' %}
+
+</html>

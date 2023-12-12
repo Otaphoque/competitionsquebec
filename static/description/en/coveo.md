@@ -1,0 +1,1 @@
+In 2024, Coveo gives you the chance to test your skills and deepen your programming knowledge at the 14th edition of Coveo Blitz.
