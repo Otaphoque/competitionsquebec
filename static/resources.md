@@ -1,6 +1,6 @@
-# 📋 A propos du site
+# 📋 About this website
 
-Bienvenue sur Compétitions Québec ! En tant qu'étudiante, j'adore participer à des compétitions d'informatique et rencontrer des nouvelles personnes, mais je trouve qu'il est parfois difficile de trouver les bonnes informations. Alors que ce soitpour des hackathons, des gamejams, des CTFs ou même d'autres événements comme les CS Games ou les JDIS Games, j'espère que ce site servira de point central pour s'y retrouver et partager des ressources.
+Welcome to Competitions Quebec ! As a student myself, I love to participate in competitions and meet like-minded people, but I sometimes find it hard to find information about them. Whether it is for hackathons, GameJams, CTFs, or other competitions such as CS Games or JDIS Games, I hope this website will serve as a central platform to find such info and share resources. 
 
 Constance - Otaphoque 🦭
 
@@ -8,33 +8,33 @@ Constance - Otaphoque 🦭
 
 # 💻 Hackathons
 
-Un hackathon est un événement intensif et limité dans le temps où les participants, en équipe, se réunissent pour collaborer et créer des solutions innovantes à des défis ou des projets spécifiques. Généralement d'une durée de 24 à 36 heures, un hackathon est l'occasion idéale pour se concentrer sur l'apprentissage d'une technologie spécifique. Un thème ou une problèmatique sont parfois donnés, le but est alors de construire un projet de a à z.
+A hackathon is an intensive time-bound event where teams come together to collaborate and create innovative solutions to specific challenges or projects. Typically lasting 24 or 36 hours, hackathons are the perfect opportunity to focus on learning a specific technology. You are sometimes given a problematic or a theme, and you have to come up and build a complete project from scratch.
 
-Plus de ressources pour les hackathons :
-- [Devpost](https://devpost.com/) : pour des hackathons en ligne à l'échelle mondiale, ou d'une durée plus longue
-- [MLH](https://mlh.io/) : pour des hackathons hybrides relativement locaux
+More resources for hackathons:
+- [Devpost](https://devpost.com/): for worldwide, online and/or long-duration hackathons
+- [MLH](https://mlh.io/): for more local, hybrid hackathons
 
 # ⛳️ CTFs
 
-Une compétition Capture The Flag (CTF) est un défi en cybersécurité où les participants, parfois en équipes, s'affrontent afin de trouver un maximum de flags à travers l'exploitation de vulnérabilité de sécurité, la résolution d'énigmes et la récupération d'informations cachées. Les CTF sont conçus pour tester et améliorer les compétences en piratage et en défense des participants, et couvre un large éventail de domaines de la cybersécurité, tels que le Web, la cryptographie, la rétro-ingénierie, et bien plus encore.
+A Capture The Flag (CTF) competition is a cybersecurity challenge where participants, sometimes in teams, a cybersecurity simulation. The objective is to find and exploit security vulnerabilities, solve puzzles, and recover hidden pieces of information, known as "flags." CTFs are designed to test and improve the participants' hacking and defensive skills, spanning a wide range of cybersecurity domains, such as web security, cryptography, reverse engineering, and more.
 
-Plus de ressources pour les CTFs :
-- [PicoCTF](https://picoctf.org/) : pour pratiquer des challenges de niveau débutant
-- [RingZeroCTF](https://ringzer0ctf.com/) : pour pratiquer des challenges de plus haut niveau
-- [CTFTime](https://ctftime.org/) : pour voir et participer aux CTFs à échelle mondiale
-- [HackTheBox](https://www.hackthebox.com/) : pour apprendre des trucs de cybersécurité en général
-- [MontréHack](https://montrehack.ca/) : pour participer à un atelier mensuel de résolution de challenge (à Montréal)
+More resources for CTFs:
+- [PicoCTF](https://picoctf.org/): to practice CTF beginner-friendly challenges
+- [RingZeroCTF](https://ringzer0ctf.com/): to practice CTF advanced challenges
+- [CTFTime](https://ctftime.org/): to see all online CTFs happening around the world
+- [HackTheBox](https://www.hackthebox.com/): to learn more about cybersecurity in general
+- [MontréHack](https://montrehack.ca/): to participate in a monthly CTF solving workshop (in Montreal)
 
 # 🎮 GameJams
 
-Similaire à un hackathon, un GameJam est un événement créatif où les développeurs de jeux, les concepteurs et les passionnés de jeux vidéo se réunissent pour créer collaborativement des jeux vidéo dans une période limitée, souvent allant de quelques jours à quelques semaines. Pendant un GameJam, les participants travaillent intensivement pour concevoir et créer des jeux vidéo basés sur un thème spécifique ou un ensemble de contraintes.
+Similar to a hackathon, a GameJam is a creative event where game developers, designers, and enthusiasts gather to collaboratively create video games within a constrained period, often lasting anywhere from a few days to a couple of weeks. During a game jam, participants work intensively to design and build games based on a specific theme or set of constraints.
 
-Pour plus de ressources pour les GameJams :
-- [itch.io](https://itch.io/jams) : site central pour trouver tous les GameJams internationaux
+More resources for GameJames:
+- [itch.io](https://itch.io/jams): to see all GameJams happening around the world
 
 # 👾 Others
 
-La meilleure catégorie selon moi. Les compétitions ici sont tellement diverses et originales qu'il serait difficile de toutes les décrire, mais voici quelques exemples notables : 
-- [CS Games](https://csgames.org/) (Mars) : Compétition d’informatique technique et sociale où des équipes d’une dizaine d’étudiants d’universités nord-américaines s’affrontent pour remporter la CS Cup. Au programme durant les trois jours de l’événement : des compétitions de 3 à 6 heures touchant tous les domaines informatiques, un challenge "Puzzle Hero" en continu, des partys démesurés, des sponsors et une ambiance d’enfer ! 
-- [JDIS Games](https://jdis.ca/) (Juillet) : Compétition d'une journée de long, où le but est de programmer un bot pour le faire jouer (et gagner ?) à un jeu vidéo spécialement conçu pour l'occasion.
-- [ICPC](https://na.icpc.global/nena/) (Octobre) : Compétition de type algorithmique où il faut résoudre des questions en codant des algorithmes (style Leetcode, juste plus difficile).
+The best category in my opnion. The competitions here are so diverse and original that it's hard to describe them all. Some notable examples inlude: 
+- [CS Games](https://csgames.org/) (March): Technical and social computer competition where teams of about ten students from North American universities compete to win the CS Cup. During the three days of the event, there are various 3 to 6-hour competitions covering various computer science domains, a continuous "Puzzle Hero" challenge, extravagant parties, sponsors, and an incredible atmosphere!
+- [JDIS Games](https://jdis.ca/) (July): Day-long competition where the goal is to program a bot to make it play (and win?) in a video game specially designed for the occasion
+- [ICPC](https://na.icpc.global/nena/) (October): Algorithmic competition where participants have to solve problems by coding algorithms (Leetcode style, just harder)
