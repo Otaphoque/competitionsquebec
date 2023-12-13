@@ -18,13 +18,13 @@
                     {% for event in months[i] %}
 
                     <a href="{{ url_for('info', id=event.id) }}"
-                        class="w-80 aspect-square m-10 p-5 bg-my-white drop-shadow-lg rounded">
+                        class="w-80 m-10 p-5 bg-my-white drop-shadow-lg rounded">
                         <div class="w-full h-full text-dark-blue">
 
                             <p class="justify-center items-center flex text-2xl m-3">{{ event.name }}</p>
                             <p class="justify-center items-center flex">📍 {{ event.location[:20] + ("..." if
                                 event.location|length > 20 else "") }}</p>
-                            <p class="justify-center items-center flex">🗓️ {{ event.startDate.strftime('%B %d, %Y') }}
+                            <p class="justify-center items-center flex">🗓️ {{ event.anotherDateYetAgain }}
                             </p>
                             <p class="justify-center items-center flex">🏆 {{ event.type }}</p>
                             <p class="justify-center items-center flex">🌎 {{ event.language }}</p>

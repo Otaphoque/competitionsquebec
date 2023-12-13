@@ -30,6 +30,7 @@ class Event:
         self.displayDate_en = kwargs.get("displayDate_en")
         self.description_fr = self.read_and_convert_description("./static/description/fr/", kwargs.get("description"))
         self.description_en = self.read_and_convert_description("./static/description/en/", kwargs.get("description"))
+        self.anotherDateYetAgain = kwargs.get("anotherDateYetAgain")
         self.smallDescription_fr = strip_markdown(self.description_fr)[:140]
         self.smallDescription_en = strip_markdown(self.description_en)[:140]
 

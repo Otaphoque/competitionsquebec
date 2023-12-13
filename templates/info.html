@@ -4,7 +4,7 @@
 
 <link rel="stylesheet" href="../static/src/truc.css">
 
-<div id="info" class="flex justify-center">
+<div id="info" class="flex justify-center leading-relaxed">
     <div class="md:w-6/12 w-10/12 mx-20 shadow-md px-10 py-10 mt-10 my-8 rounded bg-my-white text-dark-blue">
 
         <div>
@@ -15,25 +15,24 @@
         </div>
 
         <p class="text-center text-2xl font-medium break-words">{{ event.name }}</p>
-        <p class="text-center"><span class="font-semibold">{{ translations.host }}</span> <a href="{{ event.organizerLink }}">{{ event.organizer }}</a></p>
+        <p class="text-center"><span class="font-semibold">{{ translations.host }}</span> <a
+                href="{{ event.organizerLink }}">{{ event.organizer }}</a></p>
         <br>
         <p><span class="font-bold">{{ translations.location }} </span>{{ event.location }}</p>
         <p><span class="font-bold">{{ translations.début }} </span>
             {% if language %}
-            {% with month_dict = {'January': 'Janvier', 'February': 'Février', 'March': 'Mars', 'April': 'Avril', 'May':
-            'Mai', 'June': 'Juin', 'July': 'Juillet', 'August': 'Août', 'September': 'Septembre', 'October': 'Octobre',
-            'November': 'Novembre', 'December': 'Décembre'} %}
-            {% with day_dict = {'Monday': 'Lundi', 'Tuesday': 'Mardi', 'Wednesday': 'Mercredi', 'Thursday': 'Jeudi', 'Friday':
-            'Vendredi', 'Saturday': 'Samedi', 'Sunday': 'Dimanche'} %}
-            {{ day_dict[event.startDate.strftime('%A')] }} {{ event.startDate.day }} {{ month_dict[event.startDate.strftime('%B')] }} {{ event.startDate.year }}
-            {% endwith %}
-            {% endwith %}
+            {{ event.displayDate_fr}}
             {% else %}
-            {{ event.startDate.strftime('%A %B %d, %Y') }}
+            {{ event.displayDate_en}}
             {% endif %}
         </p>
-        <p><span class="font-bold">{{ translations.durée }} </span>{{ event.duration }} {{ "day" if event.duration == 1
-            else "days" }}</p>
+        <p><span class="font-bold">{{ translations.deadline }} </span>
+            {% if language %}
+            {{ event.registrationDeadline_fr }}
+            {% else %}
+            {{ event.registrationDeadline_en }}
+            {% endif %}
+        </p>
         <p><span class="font-bold">{{ translations.langue }} </span>{{ event.language }}</p>
         <p><span class="font-bold">{{ translations.type }} </span>{{ event.type }}</p>
         <p><span class="font-bold">{{ translations.lien }} </span><a class="underline" href="{{ event.links }}">{{
