@@ -21,10 +21,13 @@ class Event:
         self.endDate = datetime.strptime(kwargs.get("endDate"), "%Y-%m-%d")
         self.duration = (self.endDate - self.startDate).days + 1
         self.location = kwargs.get("location")
-        self.registrationDeadline = kwargs.get("registrationDeadline")
+        self.registrationDeadline_fr = kwargs.get("registrationDeadline_fr")
+        self.registrationDeadline_en = kwargs.get("registrationDeadline_en")
         self.language = kwargs.get("language")
         self.price = kwargs.get("price")
         self.links = kwargs.get("links")
+        self.displayDate_fr = kwargs.get("displayDate_fr")
+        self.displayDate_en = kwargs.get("displayDate_en")
         self.description_fr = self.read_and_convert_description("./static/description/fr/", kwargs.get("description"))
         self.description_en = self.read_and_convert_description("./static/description/en/", kwargs.get("description"))
         self.smallDescription_fr = strip_markdown(self.description_fr)[:140]
@@ -37,10 +40,6 @@ class Event:
         with open(f"{path}{description}.md", 'r', encoding='utf-8') as file:
             content = file.read()
             return markdown.markdown(content)
-    
-    def render_markdown(self, markdown_content):
-        html_content = markdown.markdown(markdown_content)
-        return render_template('markdown_template.html', content=html_content)
 
 def strip_markdown(text):
     html = markdown2.markdown(text)
@@ -134,9 +133,23 @@ def info(id):
 def submit():
     return render_template("/submit.html",  translations=translations)
 
+def render_markdown(md_file_path):
+    with open(f"{md_file_path}", 'r', encoding='utf-8') as file:
+        content = file.read()
+        return markdown.markdown(content, extensions=['nl2br'])
+
 @app.route("/about")
 def about():
-    return render_template("/about.html",  translations=translations)
+    ressource = ""
+    if user_language:
+        with open(f"./static/ressources.md", 'r', encoding='utf-8') as file:
+            md_content = file.read()
+        ressource = markdown.markdown(md_content)
+    else:
+        with open(f"./static/resources.md", 'r', encoding='utf-8') as file:
+            md_content = file.read()
+        ressource = markdown.markdown(md_content)
+    return render_template("/about.html",  translations=translations, ressource=ressource)
 
 if __name__ == "__main__":
     refresh()
