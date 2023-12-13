@@ -1,7 +1,15 @@
-h1 {
-    font-size: x-large;
+#res a {
+    text-decoration: underline;
 }
 
-a {
-    text-decoration: underline;
+#res a:hover {
+    color: white;
+}
+
+#res img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }

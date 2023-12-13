@@ -1,7 +1,10 @@
 # 📋 About this website
 
 Welcome to Competitions Quebec ! As a student myself, I love to participate in competitions and meet like-minded people, but I sometimes find it hard to find information about them. Whether it is for hackathons, GameJams, CTFs, or other competitions such as CS Games or JDIS Games, I hope this website will serve as a central platform to find such info and share resources. 
+
 Constance - Otaphoque 🦭
+
+![Da logo](../static/images/logo3.png)
 
 # 💻 Hackathons
 

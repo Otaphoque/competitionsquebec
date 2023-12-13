@@ -2,13 +2,14 @@
 
 {% block content %}
 
-<div class="text-my-white p-10 w-full justify-center items-center flex flex-col">
+<link rel="stylesheet" href="../static/src/truc.css">
 
-    <div class="w-2/3 text-justify leading-loose">
-        {{ ressource | safe }}
+<div id="res" class="flex justify-center">
+    <div class="w-2/3 mx-20 shadow-md px-10 pb-10 leading-relaxed pt-2 mt-10 my-8 rounded bg-my-white text-dark-blue">
+        <div id="event" class="break-words whitespace-pre-wrap text-justify">
+            {{ ressource | safe }}
+        </div>
     </div>
-
 </div>
 
-
-{% endblock%}
+{% endblock %}

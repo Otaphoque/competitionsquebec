@@ -1,7 +1,10 @@
 # 📋 A propos du site
 
 Bienvenue sur Compétitions Québec ! En tant qu'étudiante, j'adore participer à des compétitions d'informatique et rencontrer des nouvelles personnes, mais je trouve qu'il est parfois difficile de trouver les bonnes informations. Alors que ce soitpour des hackathons, des gamejams, des CTFs ou même d'autres événements comme les CS Games ou les JDIS Games, j'espère que ce site servira de point central pour s'y retrouver et partager des ressources.
+
 Constance - Otaphoque 🦭
+
+![Da logo](../static/images/logo3.png)
 
 # 💻 Hackathons
 
@@ -32,5 +35,6 @@ Pour plus de ressources pour les GameJams :
 # 👾 Others
 
 La meilleure catégorie selon moi. Les compétitions ici sont tellement diverses et originales qu'il serait difficile de toutes les décrire, mais voici quelques exemples notables : 
-- [CS Games](https://csgames.org/) : pour pratiquer des challenges de niveau débutant
-- JDIS Games : pour pratiquer des challenges de plus haut niveau
+- [CS Games](https://csgames.org/) (Mars) : Compétition d’informatique technique et sociale où des équipes d’une dizaine d’étudiants d’universités nord-américaines s’affrontent pour remporter la CS Cup. Au programme durant les trois jours de l’événement : des compétitions de 3 à 6 heures touchant tous les domaines informatiques, un challenge "Puzzle Hero" en continu, des partys démesurés, des sponsors et une ambiance d’enfer ! 
+- [JDIS Games](https://jdis.ca/) (Juillet) : Compétition d'une journée de long, où le but est de programmer un bot pour le faire jouer (et gagner ?) à un jeu vidéo spécialement conçu pour l'occasion.
+- [ICPC](https://na.icpc.global/nena/) (Octobre) : Compétition de type algorithmique où il faut résoudre des questions en codant des algorithmes (style Leetcode, juste plus difficile).
