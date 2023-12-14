@@ -5,6 +5,9 @@
     <title>Competitions Quebec</title>
     <link rel="stylesheet" href="../static/dist/output.css">
     <link rel="stylesheet" href="../static/dist/truc.css">
+    <link rel="shortcut icon" href="../static/images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="../static/images/logo3.png">
+    <link rel="icon" type="image/x-icon" href="../static/images/favicon.ico">
 </head>
 
 <body style="background-image: url('../static/images/unnamed.png')"
@@ -23,11 +26,16 @@
                 <div class="flex flex-row">
 
                     <form method="post" action="/change_language">
-                        <button class="bg-dark-blue text-white w-10 p-2 m-1 justify-center flex rounded" type="submit">{{ translations.language }}</button>
+                        <button class="bg-dark-blue text-white w-10 p-2 m-1 justify-center flex rounded"
+                            type="submit">{{ translations.language }}</button>
                     </form>
 
-                    <a href="{{ url_for('about') }}" class="w-28 justify-center bg-dark-blue m-1 flex text-white p-2 rounded">{{ translations.ressources }}</a>
-                    <a href="{{ url_for('submit') }}" class="w-32 justify-center bg-dark-blue m-1 flex text-white p-2 rounded">{{ translations.soumettre }}</a>
+                    <a href="{{ url_for('about') }}"
+                        class="w-28 justify-center bg-dark-blue m-1 flex text-white p-2 rounded">{{
+                        translations.ressources }}</a>
+                    <a href="{{ url_for('submit') }}"
+                        class="w-32 justify-center bg-dark-blue m-1 flex text-white p-2 rounded">{{
+                        translations.soumettre }}</a>
                 </div>
             </div>
         </nav>
