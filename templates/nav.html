@@ -26,15 +26,15 @@
                 <div class="flex flex-row">
 
                     <form method="post" action="/change_language">
-                        <button class="bg-dark-blue text-white w-10 p-2 m-1 justify-center flex rounded"
+                        <button class="bg-dark-blue text-white w-10 p-2 m-1 justify-center flex rounded transition-transform transform hover:-translate-y-0.5 duration-300"
                             type="submit">{{ translations.language }}</button>
                     </form>
 
                     <a href="{{ url_for('about') }}"
-                        class="w-28 justify-center bg-dark-blue m-1 flex text-white p-2 rounded">{{
+                        class="w-28 justify-center bg-dark-blue m-1 flex text-white p-2 rounded transition-transform transform hover:-translate-y-0.5 duration-300">{{
                         translations.ressources }}</a>
                     <a href="{{ url_for('submit') }}"
-                        class="w-32 justify-center bg-dark-blue m-1 flex text-white p-2 rounded">{{
+                        class="w-32 justify-center bg-dark-blue m-1 flex text-white p-2 rounded transition-transform transform hover:-translate-y-0.5 duration-300">{{
                         translations.soumettre }}</a>
                 </div>
             </div>
