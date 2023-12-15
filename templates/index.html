@@ -17,34 +17,41 @@
 
                     {% for event in months[i] %}
 
-                    <a href="{{ url_for('info', id=event.id) }}"
-                        class="w-80 m-10 p-5 bg-my-white drop-shadow-lg rounded">
-                        <div class="w-full h-full text-dark-blue">
 
-                            <p class="justify-center items-center flex text-2xl m-3">{{ event.name }}</p>
-                            <p class="justify-center items-center flex">📍 {{ event.location[:20] + ("..." if
-                                event.location|length > 20 else "") }}</p>
-                            <p class="justify-center items-center flex">🗓️ {{ event.anotherDateYetAgain }}
-                            </p>
-                            <p class="justify-center items-center flex">🏆 {{ event.type }}</p>
-                            <p class="justify-center items-center flex">🌎 {{ event.language }}</p>
+                    <a href="{{ url_for('info', id=event.id) }}"
+                        class="m-10 transition-transform transform hover:-translate-y-2 duration-300">
+                        <div class="w-80 p-5 bg-my-white rounded overflow-hidden relative drop-shadow-lg">
+                            <div class="w-full h-full text-dark-blue">
+
+                                <p class="justify-center items-center flex text-2xl m-3">{{ event.name }}</p>
+                                <p class="justify-center items-center flex">📍 {{ event.location[:20] + ("..." if
+                                    event.location|length > 20 else "") }}</p>
+                                <p class="justify-center items-center flex">🗓️ {{ event.anotherDateYetAgain }}
+                                </p>
+                                <p class="justify-center items-center flex">🏆 {{ event.type }}</p>
+                                <p class="justify-center items-center flex">🌎 {{ event.language }}</p>
 
                                 <div class="mt-14 flex">
                                     {% if language %}
-                                        {% if event.description_fr | length > 140 %}
-                                            <p>{{ event.smallDescription_fr[:130] }}...<span class="text-very-dark-blue"> [afficher plus]</span></p>
-                                        {% else %}
-                                            <p>{{ event.smallDescription_fr }}</p>
-                                        {% endif %}
+                                    {% if event.description_fr | length > 140 %}
+                                    <p>{{ event.smallDescription_fr[:130] }}...<span class="text-very-dark-blue">
+                                            [afficher
+                                            plus]</span></p>
                                     {% else %}
-                                        {% if event.description_en | length > 150 %}
-                                            <p>{{ event.smallDescription_en[:140] }}...<span class="text-very-dark-blue"> [show more]</span></p>
-                                        {% else %}
-                                            <p>{{ event.smallDescription_en }}</p>
-                                        {% endif %}
+                                    <p>{{ event.smallDescription_fr }}</p>
+                                    {% endif %}
+                                    {% else %}
+                                    {% if event.description_en | length > 150 %}
+                                    <p>{{ event.smallDescription_en[:140] }}...<span class="text-very-dark-blue">
+                                            [show
+                                            more]</span></p>
+                                    {% else %}
+                                    <p>{{ event.smallDescription_en }}</p>
+                                    {% endif %}
                                     {% endif %}
                                 </div>
 
+                            </div>
                         </div>
                     </a>
 
