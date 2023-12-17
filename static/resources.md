@@ -22,7 +22,7 @@ A Capture The Flag (CTF) competition is a cybersecurity challenge where particip
 
 More resources for CTFs:
 - [PicoCTF](https://picoctf.org/): to practice CTF beginner-friendly challenges
-- [RingZeroCTF](https://ringzer0ctf.com/): to practice CTF advanced challenges
+- [RingZeroCTF](https://ringzer0ctf.com/): to practice CTF advanced challenges (including past Northsec challenges!)
 - [CTFTime](https://ctftime.org/): to see all online CTFs happening around the world
 - [HackTheBox](https://www.hackthebox.com/): to learn more about cybersecurity in general
 - [MontréHack](https://montrehack.ca/): to participate in a monthly CTF solving workshop (in Montreal)

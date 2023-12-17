@@ -1,6 +1,6 @@
 # 📋 A propos du site
 
-Bienvenue sur Compétitions Québec ! En tant qu'étudiante, j'adore participer à des compétitions d'informatique et rencontrer des nouvelles personnes, mais je trouve qu'il est parfois difficile de trouver les bonnes informations. Alors que ce soitpour des hackathons, des gamejams, des CTFs ou même d'autres événements comme les CS Games ou les JDIS Games, j'espère que ce site servira de point central pour s'y retrouver et partager des ressources.
+Bienvenue sur Compétitions Québec ! En tant qu'étudiante, j'adore participer à des compétitions d'informatique et rencontrer des nouvelles personnes, mais je trouve qu'il est parfois difficile de trouver les bonnes informations. Alors que ce soit pour des hackathons, des gamejams, des CTFs ou même d'autres événements comme les CS Games ou les JDIS Games, j'espère que ce site servira de point central pour s'y retrouver et partager des ressources.
 
 On a aussi un [Discord](https://discord.gg/UYAk93a2ZS) et un [Instagram](https://www.instagram.com/competitionsqc.ca/) !
 
@@ -22,7 +22,7 @@ Une compétition Capture The Flag (CTF) est un défi en cybersécurité où les 
 
 Plus de ressources pour les CTFs :
 - [PicoCTF](https://picoctf.org/) : pour pratiquer des challenges de niveau débutant
-- [RingZeroCTF](https://ringzer0ctf.com/) : pour pratiquer des challenges de plus haut niveau
+- [RingZeroCTF](https://ringzer0ctf.com/) : pour pratiquer des challenges de plus haut niveau (il y a des anciens challenges de Northsec !)
 - [CTFTime](https://ctftime.org/) : pour voir et participer aux CTFs à échelle mondiale
 - [HackTheBox](https://www.hackthebox.com/) : pour apprendre des trucs de cybersécurité en général
 - [MontréHack](https://montrehack.ca/) : pour participer à un atelier mensuel de résolution de challenge (à Montréal)
