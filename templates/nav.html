@@ -26,7 +26,8 @@
                 <div class="flex flex-row">
 
                     <form method="post" action="/change_language">
-                        <button class="bg-dark-blue text-white w-10 p-2 m-1 justify-center flex rounded transition-transform transform hover:-translate-y-0.5 duration-300"
+                        <button
+                            class="bg-dark-blue text-white w-10 p-2 m-1 justify-center flex rounded transition-transform transform hover:-translate-y-0.5 duration-300"
                             type="submit">{{ translations.language }}</button>
                     </form>
 
@@ -49,5 +50,15 @@
 </body>
 
 {% extends 'footer.html' %}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QL9J3YGLL1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-QL9J3YGLL1');
+</script>
 
 </html>
