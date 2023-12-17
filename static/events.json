@@ -20,26 +20,6 @@
         "description_en": "In 2024, Coveo gives you the chance to test your skills and deepen your programming knowledge at the 14th edition of Coveo Blitz."
     },
     {
-        "name": "ConUHacks",
-        "organizer": "HackConcordia",
-        "organizerLink": "https://hackconcordia.io",
-        "type": "Hackathon",
-        "startDate": "2024-01-20",
-        "endDate": "2024-01-21",
-        "location": "Concordia (Montréal)",
-        "registrationDeadline_fr": "4 janvier 2024",
-        "registrationDeadline_en": "January 4th, 2024",
-        "language": "English",
-        "price": 0,
-        "links": "https://conuhacks.io",
-        "description": "conuhacks",
-        "displayDate_fr": "samedi 20 - dimanche 21 janvier 2024",
-        "displayDate_en": "Saturday, January 20th - Saturday, January 21st, 2024",
-        "anotherDateYetAgain": "20/01 - 21/01",
-        "description_fr": "Le plus grand hackathon du Québec est de retour ! Préparez-vous pour l'aventure d'une vie !🔥 <br>Ne laissez pas cette incroyable opportunité vous échapper ! Rejoignez les rangs des innovateurs en herbe et des passionnés de technologie qui vont faire l'histoire à ConuHacks.🔗 Soumettez votre candidature via notre site web : conuhacks.io et faites partie de quelque chose d'extraordinaire ! 🚀",
-        "description_en": "Quebec's Biggest Hackathon is Back! Get ready for the adventure of a lifetime!🔥<br/>Don't let this incredible opportunity slip away! Join the ranks of aspiring innovators and tech enthusiasts who will make history at ConuHacks.🔗\nSubmit your application via our website: conuhacks.io and be part of something extraordinary! 🚀"
-    },
-    {
         "name": "McGame Jam",
         "organizer": "GameDevMcGill",
         "organizerLink": "https://gamedevmcgill.ca/",
@@ -58,6 +38,26 @@
         "anotherDateYetAgain": "19/01 - 21/01",
         "description_fr": "Le GAME JAM le plus génial 🧑‍💻 est de retour et meilleur que jamais, pour notre 10e année consécutive 🎉 ! <br><br>Organisé par GameDev McGill, McGameJam est un marathon de développement de jeux de 48 HEURES 🎮 au cours duquel les participants ont pour mission de créer un jeu fonctionnel en suivant un thème donné. L'objectif principal est de collaborer avec des amis et de créer des jeux, peu importe le niveau de compétence 🙋‍♂️. <br><br>Rejoignez-nous lors de ce Jam spécial le 19 JANVIER 📅 au bâtiment L. M. Trottier pour un passionant week-end d'apprentissage, d'équipe, de développement de jeux et, bien sûr, de plaisir 👾 ! <br><br>Les places pour les premiers inscrits sont limitées ! Obtenez votre billet maintenant !",
         "description_en": "The coolest GAME JAM 🧑‍💻 is back and better than ever -- for our 10th consecutive year 🎉! <br><br>Organized by GameDev McGill, McGame Jam is a 48-HOUR game development marathon 🎮 in which participants are tasked with creating a playable game following a given theme. The primary goal is to collaborate with friends and to create games, no matter the skill level 🙋‍♂️. <br><br>Join us at this year’s special Jam on JANUARY 19th 📅 at the L. M. Trottier Building for a great weekend of learning, teamwork, game development and, of course, fun 👾! <br><br>Early bird spots are limited! Get your tickets now!"
+    },
+    {
+        "name": "ConUHacks",
+        "organizer": "HackConcordia",
+        "organizerLink": "https://hackconcordia.io",
+        "type": "Hackathon",
+        "startDate": "2024-01-20",
+        "endDate": "2024-01-21",
+        "location": "Concordia (Montréal)",
+        "registrationDeadline_fr": "4 janvier 2024",
+        "registrationDeadline_en": "January 4th, 2024",
+        "language": "English",
+        "price": 0,
+        "links": "https://conuhacks.io",
+        "description": "conuhacks",
+        "displayDate_fr": "samedi 20 - dimanche 21 janvier 2024",
+        "displayDate_en": "Saturday, January 20th - Saturday, January 21st, 2024",
+        "anotherDateYetAgain": "20/01 - 21/01",
+        "description_fr": "Le plus grand hackathon du Québec est de retour ! Préparez-vous pour l'aventure d'une vie !🔥 <br>Ne laissez pas cette incroyable opportunité vous échapper ! Rejoignez les rangs des innovateurs en herbe et des passionnés de technologie qui vont faire l'histoire à ConuHacks.🔗 Soumettez votre candidature via notre site web : conuhacks.io et faites partie de quelque chose d'extraordinaire ! 🚀",
+        "description_en": "Quebec's Biggest Hackathon is Back! Get ready for the adventure of a lifetime!🔥<br/>Don't let this incredible opportunity slip away! Join the ranks of aspiring innovators and tech enthusiasts who will make history at ConuHacks.🔗\nSubmit your application via our website: conuhacks.io and be part of something extraordinary! 🚀"
     },
     {
         "name": "ApplETS Hackathon",
