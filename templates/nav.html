@@ -2,6 +2,17 @@
 <html>
 
 <head>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QL9J3YGLL1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-QL9J3YGLL1');
+    </script>
+
     <title>{{ translations.title }}</title>
     <link rel="stylesheet" href="../static/dist/output.css">
     <link rel="stylesheet" href="../static/dist/truc.css">
@@ -50,15 +61,5 @@
 </body>
 
 {% extends 'footer.html' %}
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-QL9J3YGLL1"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'G-QL9J3YGLL1');
-</script>
 
 </html>
