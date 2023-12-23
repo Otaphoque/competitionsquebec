@@ -178,5 +178,25 @@
         "anotherDateYetAgain": "15/03 - 17/03",
         "description_fr": "# CS Games are back!\nThe largest and most innovative competition for undergraduates in Quebec will take place at <u>ETS</u> in <u>March 2024</u>. Contact your school association to know more about how you can participate.\n[More about this year's edition](http://2024.csgames.org)\n[More about CS Games in general](https://csgames.org)",
         "description_en": "# Les CS Games sont de retour !\nLa plus grande et la plus innovante compétition pour les étudiants de premier cycle au Québec aura lieu à l'ETS en <u>mars 2024</u>. Contactez votre association étudiante pour en savoir plus sur la façon dont vous pouvez participer.\n[Plus d'informations sur l'édition de cette année](http://2024.csgames.org)\n[Plus d'informations sur les CS Games en général](https://csgames.org)"
+    },
+    {
+        "name": "Game Jam Sherbrooke",
+        "organizer": "Game Jam Sherbrooke",
+        "organizerLink": "https://sites.google.com/view/gamejamsherbrooke",
+        "type": "GameJam",
+        "startDate": "2024-03-15",
+        "endDate": "2024-03-17",
+        "location": "Sherbrooke (Ecole NAD-UQAC)",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français",
+        "price": 0,
+        "links": "https://sites.google.com/view/gamejamsherbrooke/billetterie?authuser=0",
+        "description": "gamejamsherbrooke",
+        "displayDate_fr": "vendredi 15 - dimanche 17 janvier 2024",
+        "displayDate_en": "Friday, March 15th - Sunday, March 17th, 2024",
+        "anotherDateYetAgain": "15/03 - 17/03",
+        "description_fr": "# CS Games are back!\nThe largest and most innovative competition for undergraduates in Quebec will take place at <u>ETS</u> in <u>March 2024</u>. Contact your school association to know more about how you can participate.\n[More about this year's edition](http://2024.csgames.org)\n[More about CS Games in general](https://csgames.org)",
+        "description_en": "# Les CS Games sont de retour !\nLa plus grande et la plus innovante compétition pour les étudiants de premier cycle au Québec aura lieu à l'ETS en <u>mars 2024</u>. Contactez votre association étudiante pour en savoir plus sur la façon dont vous pouvez participer.\n[Plus d'informations sur l'édition de cette année](http://2024.csgames.org)\n[Plus d'informations sur les CS Games en général](https://csgames.org)"
     }
 ]

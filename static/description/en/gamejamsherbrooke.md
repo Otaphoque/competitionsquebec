@@ -1,0 +1,2 @@
+Between 50 and 100 participants will have 48 hours to develop and design a game or a video game as a team. This creative activity brings together talents from the Estrie region in various fields: game design, programming, visual art, music, etc. The activity is open to everyone, including students, professionals, and hobbyists. 
+Note: You only need to bring your computer equipment, personal belongings, and a positive attitude. :)
