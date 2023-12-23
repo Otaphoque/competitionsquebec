@@ -9,3 +9,7 @@
 #info a {
     text-decoration: underline;
 }
+
+#info a:hover {
+    color: #BDD5EA;
+}
