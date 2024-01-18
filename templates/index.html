@@ -17,6 +17,7 @@
 
                     {% for event in months[i] %}
 
+                    {% if event.to_display %}
 
                     <a href="{{ url_for('info', id=event.id) }}"
                         class="m-10 transition-transform transform hover:-translate-y-2 duration-300">
@@ -54,6 +55,9 @@
                             </div>
                         </div>
                     </a>
+
+                    {% endif %}
+
                     {% endfor %}
                 </div>
             </div>

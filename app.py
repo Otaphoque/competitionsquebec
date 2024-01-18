@@ -33,6 +33,7 @@ class Event:
         self.anotherDateYetAgain = kwargs.get("anotherDateYetAgain")
         self.smallDescription_fr = strip_markdown(self.description_fr)[:140]
         self.smallDescription_en = strip_markdown(self.description_en)[:140]
+        self.to_display = True
 
         Event.id += 1
         self.id = Event.id
@@ -72,9 +73,9 @@ def refresh():
 
     for event in data:
         haha = Event(**event)
-        if (haha.endDate + timedelta(days=1)) > datetime.now():
-            events.append(haha)
-        
+        events.append(haha)
+        if (haha.endDate + timedelta(days=1)) < datetime.now():
+            haha.to_display = False
 
     global user_language
     months = trouver_nom() if user_language else find_names()
