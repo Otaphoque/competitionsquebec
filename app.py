@@ -72,7 +72,9 @@ def refresh():
 
     for event in data:
         haha = Event(**event)
-        events.append(haha)
+        if haha.endDate > datetime.now():
+            events.append(haha)
+        
 
     global user_language
     months = trouver_nom() if user_language else find_names()
