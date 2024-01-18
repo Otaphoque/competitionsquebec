@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, abort, redirect, url_for, session
-from datetime import datetime
+from datetime import datetime, timedelta
 import json
 import markdown
 import markdown2
@@ -72,7 +72,7 @@ def refresh():
 
     for event in data:
         haha = Event(**event)
-        if haha.endDate > datetime.now():
+        if (haha.endDate + timedelta(days=1)) > datetime.now():
             events.append(haha)
         
 
