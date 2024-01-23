@@ -1,0 +1,3 @@
+HackQC is a pan-Quebec programming competition aimed at showcasing the open data from the Données Québec portal and addressing real concerns in our communities. In teams of 4 to 6 people, you will design an application using nearly 1,400 open datasets available on the Données Québec portal.
+
+Your goal: Develop an innovative solution related to one of the challenges presented by participating municipalities. Check out the challenges for the [2022 edition](https://hackqc.ca/cinquieme-edition-2022/).

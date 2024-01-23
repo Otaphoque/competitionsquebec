@@ -126,13 +126,13 @@
         "anotherDateYetAgain": "10/02 - 11/02"
     },
     {
-        "name": "@Hack CTF",
-        "organizer": "atHackctf",
-        "organizerLink": "https://www.athackctf.com",
+        "name": "@Hack",
+        "organizer": "@Hack",
+        "organizerLink": "https://technationcanada.agorize.com/en/challenges/athack?lang=en",
         "type": "CTF",
         "startDate": "2024-03-02",
         "endDate": "2024-03-03",
-        "location": "Online",
+        "location": "Online & Shawinigan",
         "registrationDeadline_fr": "31 janvier 2024",
         "registrationDeadline_en": "January 31st, 2024",
         "language": "English",
@@ -142,6 +142,24 @@
         "displayDate_fr": "samedi 2 - dimanche 3 mars 2024",
         "displayDate_en": "Saturday, March 2nd - Sunday, March 3rd, 2024",
         "anotherDateYetAgain": "02/03 - 03/03"
+    },
+    {
+        "name": "HackQC",
+        "organizer": "HackQuébec",
+        "organizerLink": "https://hackqc.ca",
+        "type": "Hackathon",
+        "startDate": "2024-03-07",
+        "endDate": "2024-03-17",
+        "location": "Online & Shawinigan",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français",
+        "price": "33.28",
+        "links": "https://www.eventbrite.ca/e/billets-hackqc-competition-de-programmation-755002531897?aff=ebdsshcopyurl&utm-source=cp&utm-term=listing&utm-campaign=social&utm-medium=discovery&utm-content=attendeeshare",
+        "description": "hackqc",
+        "displayDate_fr": "jeudi 7 - dimanche 17 mars 2024",
+        "displayDate_en": "Thursday, March 7th - Sunday, March 17th, 2024",
+        "anotherDateYetAgain": "07/03 - 17/03"
     },
     {
         "name": "CS Games",
@@ -178,5 +196,22 @@
         "displayDate_fr": "vendredi 15 - dimanche 17 janvier 2024",
         "displayDate_en": "Friday, March 15th - Sunday, March 17th, 2024",
         "anotherDateYetAgain": "15/03 - 17/03"
+    },{
+        "name": "Girls who hack",
+        "organizer": "Girls Who Code McGill",
+        "organizerLink": "https://girlswhocodemcgill.wordpress.com/about-us/",
+        "type": "Hackathon",
+        "startDate": "2024-03-16",
+        "endDate": "2024-03-17",
+        "location": "McGill",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "English",
+        "price": "0",
+        "links": "https://docs.google.com/forms/d/e/1FAIpQLSdnPm10y-vFjwiZskGjZ2L3iW3p1iKuC4sYg159PwAB1248Sg/viewform",
+        "description": "girlswhocode",
+        "displayDate_fr": "samedi 16 - dimanche 17 mars 2024",
+        "displayDate_en": "Saturday, March 16th - Sunday, March 17th, 2024",
+        "anotherDateYetAgain": "16/03 - 17/03"
     }
 ]
