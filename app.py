@@ -88,7 +88,8 @@ def group_by_month(events):
     for event in events:
         event_month = int(event.startDate_string[5:7]) - 1
         index = (event_month - current_month) % 12
-        monthly_events[index].append(event)
+        if event.to_display:
+            monthly_events[index].append(event)
 
     return monthly_events
 
