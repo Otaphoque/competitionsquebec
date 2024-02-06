@@ -196,7 +196,8 @@
         "displayDate_fr": "vendredi 15 - dimanche 17 janvier 2024",
         "displayDate_en": "Friday, March 15th - Sunday, March 17th, 2024",
         "anotherDateYetAgain": "15/03 - 17/03"
-    },{
+    },
+    {
         "name": "Girls who hack",
         "organizer": "Girls Who Code McGill",
         "organizerLink": "https://girlswhocodemcgill.wordpress.com/about-us/",
@@ -213,5 +214,23 @@
         "displayDate_fr": "samedi 16 - dimanche 17 mars 2024",
         "displayDate_en": "Saturday, March 16th - Sunday, March 17th, 2024",
         "anotherDateYetAgain": "16/03 - 17/03"
+    },
+    {
+        "name": "MariHacks",
+        "organizer": "MariHacks",
+        "organizerLink": "https://www.marihacks.com",
+        "type": "Hackathon",
+        "startDate": "2024-04-05",
+        "endDate": "2024-04-06",
+        "location": "Marianopolis (Montréal)",
+        "registrationDeadline_fr": "10 mars 2024",
+        "registrationDeadline_en": "March 10th, 2024",
+        "language": "English",
+        "price": "0",
+        "links": "https://www.marihacks.com",
+        "description": "marihacks",
+        "displayDate_fr": "vendredi 5 - samedi 6 avril 2024",
+        "displayDate_en": "Friday, April 5th - Saturday, April 6th, 2024",
+        "anotherDateYetAgain": "05/04 - 06/04"
     }
 ]
