@@ -216,6 +216,24 @@
         "anotherDateYetAgain": "16/03 - 17/03"
     },
     {
+        "name": "Pharmahacks",
+        "organizer": "Pharmahacks",
+        "organizerLink": "https://pharmahacks.com",
+        "type": "Hackathon",
+        "startDate": "2024-03-16",
+        "endDate": "2024-03-17",
+        "location": "1250 rue Guy (Montréal)",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "English",
+        "price": "0",
+        "links": "https://forms.office.com/pages/responsepage.aspx?id=cZYxzedSaEqvqfz4-J8J6mJrVJiWO71Dj2Ron4sFt3xUOENGQjVPUkgyNDFaMk9ZQjRJNzZDUkc3OC4u",
+        "description": "pharmahacks",
+        "displayDate_fr": "samedi 16 - dimanche 17 mars 2024",
+        "displayDate_en": "Saturday, March 16th - Sunday, March 17th, 2024",
+        "anotherDateYetAgain": "16/03 - 17/03"
+    },
+    {
         "name": "MariHacks",
         "organizer": "MariHacks",
         "organizerLink": "https://www.marihacks.com",
