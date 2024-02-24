@@ -198,6 +198,24 @@
         "anotherDateYetAgain": "15/03 - 17/03"
     },
     {
+        "name": "DawHacks",
+        "organizer": "DawHacks",
+        "organizerLink": "https://www.instagram.com/dawhackschallenge/",
+        "type": "Hackathon",
+        "startDate": "2024-03-15",
+        "endDate": "2024-03-16",
+        "location": "Dawson (Montréal)",
+        "registrationDeadline_fr": "10 mars 2024",
+        "registrationDeadline_en": "March 10th, 2024",
+        "language": "English",
+        "price": "0",
+        "links": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__UHC10ZUM01ZWk5CTjdBTk5NN09HMkZCMkZLOEsxUC4u",
+        "description": "dawhacks",
+        "displayDate_fr": "vendredi 15 - samedi 16 mars 2024",
+        "displayDate_en": "Friday, March 15th - Saturday, March 16th, 2024",
+        "anotherDateYetAgain": "15/03 - 16/03"
+    },
+    {
         "name": "Girls who hack",
         "organizer": "Girls Who Code McGill",
         "organizerLink": "https://girlswhocodemcgill.wordpress.com/about-us/",

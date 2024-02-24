@@ -1,0 +1,3 @@
+DawHacks est le premier hackathon de niveau CEGEP à double voie! Vous pourrez choisir de hacker comme d'habitude ou de proposer une solution à un problème technologique, éthique ou commercial. Si nous aimons votre solution, vous pourriez remporter le grand prix 🎉 (Ça vaut la peine de gagner, vous avez notre parole)! Il y aura des activités amusantes, des ateliers et des personnes/hackers incroyables. Aucune expérience en programmation n'est requise, nous sommes ouverts à tous les niveaux. Nous avons des frais d'inscription incroyables de 0$!!! Rejoignez-nous les 15 et 16 mars au Collège Dawson pour la première édition de notre hackathon.
+
+P.S. Toujours pas convaincu? Vous aurez de la nourriture ***gratuite***, alors venez!

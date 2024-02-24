@@ -1,0 +1,3 @@
+DawHacks is the first dual-track CEGEP level hackathon! You will get choose to hack like usual or propose a solution to a tech-ethics-buisness case. If we like your solution, you might win the grand prize 🎉 (It's worth winning, you have our word)! There are fun activities, workshops and amazing people/hackers. There is no programming experience required, we are open to all levels. We have an amazing sign up fee of 0$!!! Come join us on March 15 and 16 at Dawson College on the first edition of our hackathon. 
+
+P.S. Still not convinced? You get ***free*** food, so just pull up bro
