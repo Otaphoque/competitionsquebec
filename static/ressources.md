@@ -2,7 +2,7 @@
 
 Bienvenue sur Compétitions Québec ! En tant qu'étudiante, j'adore participer à des compétitions d'informatique et rencontrer des nouvelles personnes, mais je trouve qu'il est parfois difficile de trouver les bonnes informations. Alors que ce soit pour des hackathons, des gamejams, des CTFs ou même d'autres événements comme les CS Games ou les JDIS Games, j'espère que ce site servira de point central pour s'y retrouver et partager des ressources.
 
-On a aussi un [Discord](https://discord.gg/UYAk93a2ZS) et un [Instagram](https://www.instagram.com/competitionsquebec.ca/) !
+On a aussi un [Discord](https://discord.gg/UYAk93a2ZS) et un [Instagram](https://www.instagram.com/competitionsquebec) !
 
 Constance - Otaphoque 🦭
 
