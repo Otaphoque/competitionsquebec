@@ -268,5 +268,23 @@
         "displayDate_fr": "vendredi 5 - samedi 6 avril 2024",
         "displayDate_en": "Friday, April 5th - Saturday, April 6th, 2024",
         "anotherDateYetAgain": "05/04 - 06/04"
+    },
+    {
+        "name": "24@CTF",
+        "organizer": "PolyCyber",
+        "organizerLink": "https://polycyber.io",
+        "type": "CTF",
+        "startDate": "2024-04-06",
+        "endDate": "2024-04-07",
+        "location": "Online",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": "0",
+        "links": "https://www.eventbrite.ca/e/billets-24ctf-cyberconference-2024-853685746047",
+        "description": "24@ctf",
+        "displayDate_fr": "samedi 6 - dimanche 7 avril 2024",
+        "displayDate_en": "Saturday, April 6th - Sunday, April 7th, 2024",
+        "anotherDateYetAgain": "06/04 - 07/04"
     }
 ]
