@@ -27,6 +27,7 @@ More resources for CTFs:
 - [CTFTime](https://ctftime.org/): to see all online CTFs happening around the world
 - [HackTheBox](https://www.hackthebox.com/): to learn more about cybersecurity in general
 - [MontréHack](https://montrehack.ca/): to participate in a monthly CTF solving workshop (in Montreal)
+- [AGEEI](https://ctf.ageei.org): a continuous CTF managed by AGEEI (UQAM)
 
 # 🎮 GameJams
 

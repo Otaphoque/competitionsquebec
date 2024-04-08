@@ -291,7 +291,7 @@
         "name": "JFFI",
         "organizer": "JFFI",
         "organizerLink": "https://jffi.ca",
-        "type": "Other",
+        "type": "CTF",
         "startDate": "2024-04-29",
         "endDate": "2024-04-30",
         "location": "Ecole de Technologie Supérieure (Montréal)",
@@ -322,5 +322,23 @@
         "displayDate_fr": "vendredi 17 - dimanche 19 mai 2024",
         "displayDate_en": "Friday, May 17th - Sunday, May 19th, 2024",
         "anotherDateYetAgain": "17/05 - 19/05"
+    },
+    {
+        "name": "ULCTF",
+        "organizer": "CSIUL (ULaval)",
+        "organizerLink": "http://clubsecuriteinformatique.ift.ulaval.ca",
+        "type": "CTF",
+        "startDate": "2024-05-03",
+        "endDate": "2024-05-04",
+        "location": "ULaval & Online",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": "0",
+        "links": "https://discord.com/invite/2DmazBEGPS",
+        "description": "ulctf",
+        "displayDate_fr": "vendredi 3 - samedi 4 mai 2024",
+        "displayDate_en": "Friday, May 3rd - Saturday, May 4th, 2024",
+        "anotherDateYetAgain": "03/05 - 04/05"
     }
 ]
