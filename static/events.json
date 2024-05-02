@@ -304,6 +304,41 @@
         "displayDate_fr": "lundi 29 - mardi 30 avril 2024",
         "displayDate_en": "Monday, April 29th - Tuesday, April 30th, 2024",
         "anotherDateYetAgain": "29/04 - 30/04"
+    },{
+        "name": "ULCTF",
+        "organizer": "CSIUL (ULaval)",
+        "organizerLink": "http://clubsecuriteinformatique.ift.ulaval.ca",
+        "type": "CTF",
+        "startDate": "2024-05-03",
+        "endDate": "2024-05-04",
+        "location": "ULaval & Online",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": "0",
+        "links": "https://discord.com/invite/2DmazBEGPS",
+        "description": "ulctf",
+        "displayDate_fr": "vendredi 3 - samedi 4 mai 2024",
+        "displayDate_en": "Friday, May 3rd - Saturday, May 4th, 2024",
+        "anotherDateYetAgain": "03/05 - 04/05"
+    },
+    {
+        "name": "JAC Hacks",
+        "organizer": "John Abott College",
+        "organizerLink": "https://www.instagram.com/jachacksofficial?igsh=MW1waW14ajY1NW5oNQ==",
+        "type": "Hackahton",
+        "startDate": "2024-05-11",
+        "endDate": "2024-05-12",
+        "location": "In-person (Montréal)",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "English",
+        "price": "0",
+        "links": "https://johnabbott.qc.ca/jachacks",
+        "description": "jachacks",
+        "displayDate_fr": "samedi 11 - dimanche 12 mai 2024",
+        "displayDate_en": "Saturday, May 11th - Sunday, May 12th, 2024",
+        "anotherDateYetAgain": "11/05 - 12/05"
     },
     {
         "name": "NorthSec",
@@ -322,23 +357,5 @@
         "displayDate_fr": "vendredi 17 - dimanche 19 mai 2024",
         "displayDate_en": "Friday, May 17th - Sunday, May 19th, 2024",
         "anotherDateYetAgain": "17/05 - 19/05"
-    },
-    {
-        "name": "ULCTF",
-        "organizer": "CSIUL (ULaval)",
-        "organizerLink": "http://clubsecuriteinformatique.ift.ulaval.ca",
-        "type": "CTF",
-        "startDate": "2024-05-03",
-        "endDate": "2024-05-04",
-        "location": "ULaval & Online",
-        "registrationDeadline_fr": "N/A",
-        "registrationDeadline_en": "N/A",
-        "language": "Français & English",
-        "price": "0",
-        "links": "https://discord.com/invite/2DmazBEGPS",
-        "description": "ulctf",
-        "displayDate_fr": "vendredi 3 - samedi 4 mai 2024",
-        "displayDate_en": "Friday, May 3rd - Saturday, May 4th, 2024",
-        "anotherDateYetAgain": "03/05 - 04/05"
     }
 ]
