@@ -357,5 +357,23 @@
         "displayDate_fr": "vendredi 17 - dimanche 19 mai 2024",
         "displayDate_en": "Friday, May 17th - Sunday, May 19th, 2024",
         "anotherDateYetAgain": "17/05 - 19/05"
+    },
+    {
+        "name": "JDIS Games",
+        "organizer": "JDIS",
+        "organizerLink": "https://jdis.ca",
+        "type": "Other",
+        "startDate": "2024-07-27",
+        "endDate": "2024-07-27",
+        "location": "Montréal",
+        "registrationDeadline_fr": "N/A (yet)",
+        "registrationDeadline_en": "N/A (yet)",
+        "language": "Français",
+        "price": "0",
+        "links": "https://discord.gg/mGktSGhfEz",
+        "description": "jdis",
+        "displayDate_fr": "samedi 27 juillet 2024",
+        "displayDate_en": "Saturday, July 27th, 2024",
+        "anotherDateYetAgain": "27/07"
     }
 ]
