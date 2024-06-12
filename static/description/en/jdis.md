@@ -1,5 +1,3 @@
-### English Translation
-
 The JDIS Games are happening this summer! 🤩
 
 JDIS has created a brand new challenge for computer science students. Teams will have to program a system capable of playing a game specially designed for the occasion! Here are some details about the JDIS Games 2024 at the University of Sherbrooke:
