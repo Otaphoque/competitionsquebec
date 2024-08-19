@@ -375,5 +375,23 @@
         "displayDate_fr": "samedi 27 juillet 2024",
         "displayDate_en": "Saturday, July 27th, 2024",
         "anotherDateYetAgain": "27/07"
+    },
+    {
+        "name": "Hackfest",
+        "organizer": "Hackfest",
+        "organizerLink": "https://hackfest.ca",
+        "type": "CTF",
+        "startDate": "2024-10-11",
+        "endDate": "2024-10-12",
+        "location": "Québec",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": "91.98$",
+        "links": "https://hackfest.ca",
+        "description": "hackfest",
+        "displayDate_fr": "samedi 10 - dimanche 11 octobre 2024",
+        "displayDate_en": "Saturday, October 10th - Sunday, October 11th, 2024",
+        "anotherDateYetAgain": "10/10 - 11/10"
     }
 ]
