@@ -359,6 +359,24 @@
         "anotherDateYetAgain": "17/05 - 19/05"
     },
     {
+        "name": "UnitedCTF",
+        "organizer": "unitedCTF",
+        "organizerLink": "https://unitedctf.ca",
+        "type": "CTF",
+        "startDate": "2024-09-13",
+        "endDate": "2024-09-20",
+        "location": "Québec",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": "0",
+        "links": "https://unitedctf.ca",
+        "description": "unitedctf",
+        "displayDate_fr": "vendredi 13 - vendredi 20 september 2024",
+        "displayDate_en": "Friday, September 13th - Friday, September 20th, 2024",
+        "anotherDateYetAgain": "13/09 - 20/09"
+    },
+    {
         "name": "JDIS Games",
         "organizer": "JDIS",
         "organizerLink": "https://jdis.ca",
