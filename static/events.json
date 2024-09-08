@@ -395,6 +395,24 @@
         "anotherDateYetAgain": "27/07"
     },
     {
+        "name": "CodeML",
+        "organizer": "PolyAI",
+        "organizerLink": "https://codeml.ca",
+        "type": "Hackathon",
+        "startDate": "2024-10-05",
+        "endDate": "2024-10-06",
+        "location": "Polytechnique (Montréal)",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": "0$",
+        "links": "https://docs.google.com/forms/d/e/1FAIpQLSctJZEYjx8oTROyygyeGTppd8saPMvLELxliPYXlRYYM07z-w/viewform",
+        "description": "codeml",
+        "displayDate_fr": "samedi 5 - dimanche 6 octobre 2024",
+        "displayDate_en": "Saturday, October 5th - Sunday, October 6th, 2024",
+        "anotherDateYetAgain": "05/10 - 06/10"
+    },
+    {
         "name": "Hackfest",
         "organizer": "Hackfest",
         "organizerLink": "https://hackfest.ca",
