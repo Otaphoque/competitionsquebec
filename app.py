@@ -59,7 +59,7 @@ def find_names():
 def trouver_nom():
     names = [
         "Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet",
-        "Août", "Septembre", "Octbore", "Novembre", "Décembre",
+        "Août", "Septembre", "Octobre", "Novembre", "Décembre",
     ]
     current = datetime.now().month
     return [names[(current - 1 + i) % 12] for i in range(12)]
