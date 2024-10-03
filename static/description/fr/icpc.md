@@ -1,0 +1,4 @@
+Le Concours International de Programmation Collégiale (ICPC) est un concours de programmation algorithmique destiné aux étudiants universitaires. Des équipes de trois personnes, représentant leur université, travaillent à résoudre un maximum de problèmes concrets, favorisant ainsi la collaboration, la créativité, l'innovation et la capacité à travailler sous pression. Grâce à l'entraînement et à la compétition, les équipes se défient mutuellement pour repousser les limites du possible. En toute simplicité, il s'agit du concours de programmation le plus ancien, le plus grand et le plus prestigieux au monde.
+
+**Inscriptions**
+Veuillez contacter votre club universitaire pour en savoir plus sur comment participer !

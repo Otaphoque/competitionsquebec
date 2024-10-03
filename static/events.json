@@ -501,5 +501,23 @@
         "displayDate_fr": "samedi 23 - dimanche 24 novembre 2024",
         "displayDate_en": "Saturday, November 23rd - Sunday, November 24th 2024",
         "anotherDateYetAgain": "23/11 - 24/11"
+    },
+    {
+        "name": "ICPC Regionals",
+        "organizer": "ICPC",
+        "organizerLink": "https://ne.na.icpc.global",
+        "type": "Other",
+        "startDate": "2024-11-10",
+        "endDate": "2024-11-10",
+        "location": "Montréal",
+        "registrationDeadline_fr": "3 novembre",
+        "registrationDeadline_en": "November 3rd",
+        "language": "English",
+        "price": "150$",
+        "links": "https://icpc.global/regionals/finder/northeast-north-america",
+        "description": "icpc",
+        "displayDate_fr": "dimanche 10 novembre 2024",
+        "displayDate_en": "Sunday, November 10th, 2024",
+        "anotherDateYetAgain": "10/11"
     }
 ]
