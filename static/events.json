@@ -534,8 +534,8 @@
         "price": 0,
         "links": "https://conuhacks.io",
         "description": "conuhacks25",
-        "displayDate_fr": "samedi 1er - dimanche 2 février 2024",
-        "displayDate_en": "Saturday, February 1st - Saturday, January 2nd, 2024",
+        "displayDate_fr": "samedi 1er - dimanche 2 février 2025",
+        "displayDate_en": "Saturday, February 1st - Saturday, January 2nd, 2025",
         "anotherDateYetAgain": "01/02 - 02/02"
     },
     {
@@ -552,8 +552,8 @@
         "price": 0,
         "links": "https://www.mchacks.ca",
         "description": "mchacks25",
-        "displayDate_fr": "samedi 25 - dimanche 26 janvier 2024",
-        "displayDate_en": "Saturday, January 25th - Sunday, January 26th, 2024",
+        "displayDate_fr": "samedi 25 - dimanche 26 janvier 2025",
+        "displayDate_en": "Saturday, January 25th - Sunday, January 26th, 2025",
         "anotherDateYetAgain": "25/01 - 26/01"
     },
     {
@@ -561,17 +561,17 @@
         "organizer": "CS Games",
         "organizerLink": "https://csgames.org",
         "type": "Autre",
-        "startDate": "2024-03-14",
-        "endDate": "2024-03-16",
+        "startDate": "2025-03-14",
+        "endDate": "2025-03-16",
         "location": "Ecole de Technologie Supérieure (Montreal)",
-        "registrationDeadline_fr": "31 janvier 2024",
-        "registrationDeadline_en": "January 31st, 2024",
+        "registrationDeadline_fr": "31 janvier 2025",
+        "registrationDeadline_en": "January 31st, 2025",
         "language": "English & Français",
         "price": 0,
         "links": "https://2025.csgames.org",
         "description": "csgames25",
-        "displayDate_fr": "vendredi 14 - dimanche 16 janvier 2024",
-        "displayDate_en": "Friday, March 14th - Sunday, March 16th, 2024",
+        "displayDate_fr": "vendredi 14 - dimanche 16 janvier 2025",
+        "displayDate_en": "Friday, March 14th - Sunday, March 16th, 2025",
         "anotherDateYetAgain": "14/03 - 16/03"
     },
     {
@@ -579,8 +579,8 @@
         "organizer": "@Hack",
         "organizerLink": "https://www.athackctf.com",
         "type": "CTF",
-        "startDate": "2024-03-14",
-        "endDate": "2024-03-16",
+        "startDate": "2025-03-14",
+        "endDate": "2025-03-16",
         "location": "Concordia (Montréal)",
         "registrationDeadline_fr": "N/A (yet)",
         "registrationDeadline_en": "N/A (yet)",
@@ -588,8 +588,8 @@
         "price": 0,
         "links": "https://www.athackctf.com",
         "description": "athackctf25",
-        "displayDate_fr": "vendredi 14 - dimanche 16 mars 2024",
-        "displayDate_en": "Saturday, March 14th - Sunday, March 16th, 2024",
+        "displayDate_fr": "vendredi 14 - dimanche 16 mars 2025",
+        "displayDate_en": "Saturday, March 14th - Sunday, March 16th, 2025",
         "anotherDateYetAgain": "14/03 - 16/03"
     }
 ]
