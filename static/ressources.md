@@ -27,7 +27,7 @@ Plus de ressources pour les CTFs :
 - [CTFTime](https://ctftime.org/) : pour voir et participer aux CTFs à échelle mondiale
 - [HackTheBox](https://www.hackthebox.com/) : pour apprendre des trucs de cybersécurité en général
 - [MontréHack](https://montrehack.ca/) : pour participer à un atelier mensuel de résolution de challenge (à Montréal)
-- [AGEEI](https://ctf.ageei.org) : un CTF en continu géré par l'AGEEI (UQAM)
+- [Hubert Hackin'](https://ctf.hackin.ca): un CTF en continu fait par la fameuse équipe Hubert Hackin'
 
 # 🎮 GameJams
 
