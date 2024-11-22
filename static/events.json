@@ -579,17 +579,17 @@
         "organizer": "@Hack",
         "organizerLink": "https://www.athackctf.com",
         "type": "CTF",
-        "startDate": "2025-03-14",
-        "endDate": "2025-03-16",
+        "startDate": "2025-03-01",
+        "endDate": "2025-03-02",
         "location": "Concordia (Montréal)",
-        "registrationDeadline_fr": "N/A (yet)",
-        "registrationDeadline_en": "N/A (yet)",
+        "registrationDeadline_fr": "24 janvier 2025",
+        "registrationDeadline_en": "January 24th, 2025",
         "language": "English",
         "price": 0,
         "links": "https://www.athackctf.com",
         "description": "athackctf25",
-        "displayDate_fr": "vendredi 14 - dimanche 16 mars 2025",
-        "displayDate_en": "Saturday, March 14th - Sunday, March 16th, 2025",
-        "anotherDateYetAgain": "14/03 - 16/03"
+        "displayDate_fr": "samedi 01 - dimanche 02 mars 2025",
+        "displayDate_en": "Saturday, March 1st - Sunday, March 2nd, 2025",
+        "anotherDateYetAgain": "01/03 - 02/03"
     }
 ]
