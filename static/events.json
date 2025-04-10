@@ -591,5 +591,23 @@
         "displayDate_fr": "vendredi 14 - dimanche 16 mars 2025",
         "displayDate_en": "Saturday, March 14th - Sunday, March 16th, 2025",
         "anotherDateYetAgain": "14/03 - 16/03"
+    },
+    {
+        "name": "NorthSec",
+        "organizer": "NorthSec",
+        "organizerLink": "https://nsec.io",
+        "type": "CTF",
+        "startDate": "2025-05-16",
+        "endDate": "2025-05-18",
+        "location": "Montréal",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "English",
+        "price": 100,
+        "links": "https://nsec.io",
+        "description": "nsec25",
+        "displayDate_fr": "vendredi 16 - dimanche 18 mai 2025",
+        "displayDate_en": "Saturday, May 16th - Sunday, May 18th, 2025",
+        "anotherDateYetAgain": "16/05 - 18/05"
     }
 ]
