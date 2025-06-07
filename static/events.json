@@ -622,12 +622,31 @@
         "location": "Sherbrooke",
         "registrationDeadline_fr": "N/A",
         "registrationDeadline_en": "N/A",
-        "language": "English",
+        "language": "Français",
         "price": 0,
         "links": "https://www.zeffy.com/fr-CA/ticketing/jdis-games--2025",
         "description": "jdis2025",
         "displayDate_fr": "samedi 26 juillet 2025",
-        "displayDate_en": "Saturday, July 16th, 2025",
+        "displayDate_en": "Saturday, July 26th, 2025",
         "anotherDateYetAgain": "26/07"
+    },
+
+    {
+        "name": "Cookie Jam",
+        "organizer": "Concordia Game Dev",
+        "organizerLink": "https://www.instagram.com/concordiagamedev/?hl=en",
+        "type": "GameJam",
+        "startDate": "2025-06-13",
+        "endDate": "2025-06-16",
+        "location": "Online",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "English",
+        "price": 0,
+        "links": "https://itch.io/jam/cookie-jam-incremental",
+        "description": "cookiejam",
+        "displayDate_fr": "vendredi 13 - dimanche 16 juin 2025",
+        "displayDate_en": "Saturday, June 13th - Saturday, June 16th 2025",
+        "anotherDateYetAgain": "13/06 - 16/06"
     }
 ]
