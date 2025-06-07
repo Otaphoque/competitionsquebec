@@ -610,5 +610,24 @@
         "displayDate_fr": "vendredi 16 - dimanche 18 mai 2025",
         "displayDate_en": "Saturday, May 16th - Sunday, May 18th, 2025",
         "anotherDateYetAgain": "16/05 - 18/05"
+    },
+
+    {
+        "name": "JDIS Games",
+        "organizer": "JDIS",
+        "organizerLink": "https://jdis.ca/",
+        "type": "Other",
+        "startDate": "2025-07-26",
+        "endDate": "2025-07-26",
+        "location": "Sherbrooke",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "English",
+        "price": 0,
+        "links": "https://www.zeffy.com/fr-CA/ticketing/jdis-games--2025",
+        "description": "jdis2025",
+        "displayDate_fr": "samedi 26 juillet 2025",
+        "displayDate_en": "Saturday, July 16th, 2025",
+        "anotherDateYetAgain": "26/07"
     }
 ]
