@@ -1,3 +1,3 @@
 CodeML est un hackathon unique en son genre. S'étalant sur 48 heures, il consiste en une série de défis sur l'apprentissage machine de difficulté croissante. Cet événement est l'occasion idéale pour les participants de se familiariser avec les différents aspects des méthodes d'apprentissage machine! Pour les nouveaux venus dans le domaine, cette compétition vous permettra d'apprendre beaucoup car nous avons préparé de la documentation et des outils pour que vous puissiez commencer! Pour les vétérans, nous avons également créé des défis difficiles que vous pourrez apprécier! De nombreux prix à gagner!
 
-https://codeml.ca
+Lien d’inscription juste [ici](https://docs.google.com/forms/d/e/1FAIpQLScD_HLcPrfZBlOHfdXX3EjNNFqgXHruW0RZrBwLMQV3hQ_8_Q/viewform)
