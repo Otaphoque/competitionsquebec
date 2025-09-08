@@ -304,7 +304,8 @@
         "displayDate_fr": "lundi 29 - mardi 30 avril 2024",
         "displayDate_en": "Monday, April 29th - Tuesday, April 30th, 2024",
         "anotherDateYetAgain": "29/04 - 30/04"
-    },{
+    },
+    {
         "name": "ULCTF",
         "organizer": "CSIUL (ULaval)",
         "organizerLink": "http://clubsecuriteinformatique.ift.ulaval.ca",
@@ -447,7 +448,7 @@
         "displayDate_fr": "samedi 10 - dimanche 11 octobre 2024",
         "displayDate_en": "Saturday, October 10th - Sunday, October 11th, 2024",
         "anotherDateYetAgain": "10/10 - 11/10"
-    }, 
+    },
     {
         "name": "CodeJam()",
         "organizer": "Codejam",
@@ -592,7 +593,6 @@
         "displayDate_en": "Saturday, March 1st - Sunday, March 2nd, 2025",
         "anotherDateYetAgain": "01/03 - 02/03"
     },
-
     {
         "name": "NorthSec",
         "organizer": "NorthSec",
@@ -611,7 +611,6 @@
         "displayDate_en": "Saturday, May 16th - Sunday, May 18th, 2025",
         "anotherDateYetAgain": "16/05 - 18/05"
     },
-
     {
         "name": "JDIS Games",
         "organizer": "JDIS",
@@ -630,7 +629,6 @@
         "displayDate_en": "Saturday, July 26th, 2025",
         "anotherDateYetAgain": "26/07"
     },
-
     {
         "name": "Cookie Jam",
         "organizer": "Concordia Game Dev",
@@ -648,5 +646,77 @@
         "displayDate_fr": "vendredi 13 - dimanche 16 juin 2025",
         "displayDate_en": "Saturday, June 13th - Saturday, June 16th 2025",
         "anotherDateYetAgain": "13/06 - 16/06"
+    },
+    {
+        "name": "UnitedCTF",
+        "organizer": "unitedCTF",
+        "organizerLink": "https://unitedctf.ca",
+        "type": "CTF",
+        "startDate": "2025-09-19",
+        "endDate": "2025-09-26",
+        "location": "Online",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": 0,
+        "links": "https://discord.gg/bsSQ9m2R7R",
+        "description": "unitedctf25",
+        "displayDate_fr": "vendredi 19 - vendredi 26 septembre 2025",
+        "displayDate_en": "Saturday, September 19th - Saturday, September 26th 2025",
+        "anotherDateYetAgain": "19/09 - 26/09"
+    },
+    {
+        "name": "ConUHacks X",
+        "organizer": "conuhacks",
+        "organizerLink": "https://hackconcordia.io",
+        "type": "Hackathon",
+        "startDate": "2026-01-24",
+        "endDate": "2026-01-25",
+        "location": "Concordia (Montréal)",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "English",
+        "price": 0,
+        "links": "https://discord.gg/bsSQ9m2R7R",
+        "description": "conuhacks26",
+        "displayDate_fr": "samedi 24 - dimanche 25 janvier 2026",
+        "displayDate_en": "Saturday, January 24th - Sunday, January 25th, 2026",
+        "anotherDateYetAgain": "24/01 - 25/01"
+    },
+    {
+        "name": "LearnML",
+        "organizer": "PolyAI",
+        "organizerLink": "https://polyai.ca/#",
+        "type": "Hackathon",
+        "startDate": "2025-09-20",
+        "endDate": "2025-09-21",
+        "location": "Polytechnique (Montréal)",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": 0,
+        "links": "https://learnml.ca",
+        "description": "learnml",
+        "displayDate_fr": "samedi 20 - dimanche 21 septembre 2026",
+        "displayDate_en": "Saturday, September 20th - Sunday, September 21st, 2026",
+        "anotherDateYetAgain": "20/09 - 21/09"
+    },
+    {
+        "name": "CodeML",
+        "organizer": "PolyAI",
+        "organizerLink": "https://polyai.ca/#",
+        "type": "Hackathon",
+        "startDate": "2025-10-11",
+        "endDate": "2026-10-12",
+        "location": "Polytechnique (Montréal)",
+        "registrationDeadline_fr": "N/A",
+        "registrationDeadline_en": "N/A",
+        "language": "Français & English",
+        "price": 0,
+        "links": "https://codeml.ca",
+        "description": "codeml",
+        "displayDate_fr": "samedi 11 - dimanche 12 octobre 2025",
+        "displayDate_en": "Saturday, October 11th - Sunday, October 12th, 2025",
+        "anotherDateYetAgain": "11/10 - 12/10"
     }
 ]
